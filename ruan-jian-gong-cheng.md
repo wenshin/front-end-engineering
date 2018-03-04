@@ -6,5 +6,5 @@
 
 1993年，[电气电子工程师学会](https://zh.wikipedia.org/wiki/电气电子工程师学会)（IEEE）给出了一个更加综合的定义："系统地将科学技术知识、方法和经验应用到软件设计、实现、测试和文档化[^1]**（the systematic application of scientific and technological knowledge, methods, and experience to the design, implementation, testing, and documentation of software）**"。从这个定义中我同事得到了工程化的概念
 
-[^1]: 《软件工程概论》2010年03月，郑人杰、马素霞、殷人昆。书中翻译为：“将系统化的、规范的、可度量的方法用于软件的开发、运行和维护的过程，即将工程化应用于软件开发中”**。**
+[^1]: 123.
 
